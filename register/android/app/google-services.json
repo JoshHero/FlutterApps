@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194235259567",
+    "firebase_url": "https://register-eafdd.firebaseio.com",
+    "project_id": "register-eafdd",
+    "storage_bucket": "register-eafdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194235259567:android:bbc6222ff7c6a094ec925a",
+        "android_client_info": {
+          "package_name": "com.example.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194235259567-mhmcqg1qiihpkq5if08fvj013d7eti50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1WdfrMm_aM2xkfbR4Jfadq-OyRvfDX9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194235259567-mhmcqg1qiihpkq5if08fvj013d7eti50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

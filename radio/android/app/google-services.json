@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749179574864",
+    "firebase_url": "https://radiodb-afd67.firebaseio.com",
+    "project_id": "radiodb-afd67",
+    "storage_bucket": "radiodb-afd67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749179574864:android:79b4ac410cc01875c74f55",
+        "android_client_info": {
+          "package_name": "com.example.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749179574864-85ubo71008kruglcaq8h7au0lb344tt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgv17JhELqzKg-_AOK2ZdoXSlBRyd1BIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749179574864-85ubo71008kruglcaq8h7au0lb344tt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
